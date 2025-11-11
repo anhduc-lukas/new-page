@@ -2,4 +2,4 @@
 
 Work-in-progress coursework.
 
-- [Alt Text] (alt-text)
+- [Image] (alt-text/img/FS Image No Background.png)
