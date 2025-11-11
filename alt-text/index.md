@@ -4,7 +4,7 @@
 
 ### Image
 
-![Team](FS Image No Background.png)
+![Team](img/FS Image No Background.png)
 
 * homework
 * dishes
