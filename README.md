@@ -1,2 +1,3 @@
-# new-page
-English - VSKK
+# English for Designers
+
+Work-in-progress coursework.
